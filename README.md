@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mansour</h1>
 <h3 align="center">A Computer Science Student ||competitive programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+<img align="right" alt="Coding" width="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
